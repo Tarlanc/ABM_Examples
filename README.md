@@ -4,7 +4,7 @@ In this repository, some examples of Agent Based Models are shared. The models a
 ## Covid-Sim.R
 This simulation uses a network graph to simulate the contagion of a contagious agent (inspired by Sars-CoV2) through a small network with one initially infected agent.
 
-## Chase.py
+## easyabm.py
 This is a python script that may be used as a module for generating colorful simulations with turtles.
 The script contains classes for the environment and agents that may be used to build quick and easy simulations.
 In the script, there are three example simulations that may be done in this framework. Each one of these may be extended, refined, and altered to suit specific needs. Or just use it for fun to see whether the zombie apocalypse is really the end.
