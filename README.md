@@ -18,3 +18,8 @@ When a solution is reached (either due to time restriction or reaching convergen
 ## networksim.R
 This is an R-Script that simulates the contagion in randomly generated networks, using two attributes: Knowing information and being willing to share information.
 The script generates an animated GIF that shows the progress of contagion for networks with differing density.
+
+## Conformity.R
+This is an R-Script that simulates an attenuation process in a grid. Each agent in the grid has an attitude and a talking propensity.
+According to the spiral of silence, agents talk if they are in line with their environment and are silent if they are not.
+The environment of each agent is only observable through talking agents, leading to an increase of minute initial biases.
