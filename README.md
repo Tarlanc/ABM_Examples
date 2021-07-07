@@ -14,3 +14,7 @@ The different classes demonstrate how to add methods and teach the agents new be
 This is a python script that may be used as a module for optimizing a multi-parameter problem with a genetic algorithm. It contans just one class named `GeneticAlgorithm` and a simple model with a non-linear problem to demonstrate its use.
 An object of the class `GeneticAlgorithm` is capable of adapting to the outputs of a specific function passed to it and will try to reach the highest possible result.
 When a solution is reached (either due to time restriction or reaching convergence), the results and optimization history may be exported to a csv for further analysis.
+
+## networksim.R
+This is an R-Script that simulates the contagion in randomly generated networks, using two attributes: Knowing information and being willing to share information.
+The script generates an animated GIF that shows the progress of contagion for networks with differing density.
